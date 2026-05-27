@@ -9,7 +9,7 @@ Proyek ini adalah aplikasi Manajemen Reservasi Restoran berbasis Java CLI (Comma
 1. Anisa Putri Amelia (2510631250004)
 2. Line Budiarti (2510631250007)
 3. Muhammad Aji Nur Majid (2510631250037)
-4. Fathu Zaky Nugraha (2510631250061)
+4. Fathu Zaky Nugraha (2510631250061).
 
 ## 🚀 Fitur Utama:
 - Operasi CRUD Lengkap (Create, Read, Update, Delete)
