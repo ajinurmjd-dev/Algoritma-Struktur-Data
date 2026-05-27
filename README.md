@@ -29,4 +29,4 @@ Proyek ini adalah aplikasi Manajemen Reservasi Restoran berbasis Java CLI (Comma
    java SistemReservasi_V1
 
 ---
-© 2026 - Program Studi Sistem Informasi, Universitas Singaperbangsa Karawang[cite: 3].
+© 2026 - Program Studi Sistem Informasi, Universitas Singaperbangsa Karawang.
