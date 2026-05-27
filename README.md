@@ -17,7 +17,7 @@ Proyek ini adalah aplikasi Manajemen Reservasi Restoran berbasis Java CLI (Comma
 - Algoritma Pengurutan: Bubble Sort (ID/Jumlah Orang) & Selection Sort (Nama)
 - Manajemen Data: Simpan dan Muat data otomatis melalui file 'data_reservasi.txt'
 - Logika Bisnis: Pencegahan Overbooking (Maksimal 30 orang per hari) & Statistik Dinamis
-- Keamanan: Fitur Soft Delete & 2-Step Verification[cite: 3].
+- Keamanan: Fitur Soft Delete & 2-Step Verification
 
 ## 🛠️ Cara Menjalankan Program:
 1. Pastikan Java JDK sudah terinstal di komputer Anda
