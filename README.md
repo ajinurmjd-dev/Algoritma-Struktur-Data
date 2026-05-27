@@ -1,4 +1,4 @@
-# Algoritma-Struktu-Data.
+# Algoritma-Struktu-Data
 Project Dan Laporan mengenai tugas Akhir semester 2
 
 # SISTEM RESERVASI RESTORAN (Kelompok 3 - 2A SI UNSIKA 2026)
