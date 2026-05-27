@@ -28,5 +28,9 @@ Proyek ini adalah aplikasi Manajemen Reservasi Restoran berbasis Java CLI (Comma
 5. Jalankan program:
    java SistemReservasi_V1
 
+## Laporan Project 
+
+Untuk laporan Project Final kami dapat di Download/Akses melalui berikut [File Laporan Project](https://github.com/ajinurmjd-dev/Algoritma-Struktur-Data/blob/main/Laporan%20Project%20Reservasi%20Restoran%20Final.pdf)
+
 ---
 © 2026 - Program Studi Sistem Informasi, Universitas Singaperbangsa Karawang.
