@@ -1,7 +1,7 @@
 # Algoritma-Struktu-Data
 Project Dan Laporan mengenai tugas Akhir semester 2
 
-# SISTEM RESERVASI RESTORAN (Kelompok 3 - SI UNSIKA 2026)
+# SISTEM RESERVASI RESTORAN (Kelompok 3 - 2A SI UNSIKA 2026)
 
 Proyek ini adalah aplikasi Manajemen Reservasi Restoran berbasis Java CLI (Command Line Interface) yang dikembangkan untuk memenuhi tugas mata kuliah Algoritma dan Struktur Data.
 
