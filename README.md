@@ -21,7 +21,7 @@ Proyek ini adalah aplikasi Manajemen Reservasi Restoran berbasis Java CLI (Comma
 
 ## 🛠️ Cara Menjalankan Program:
 1. Pastikan Java JDK sudah terinstal di komputer Anda
-2. Pastikan file [File Name](path/to/data_reservasi.txt) berada dalam folder yang sama dengan file Java
+2. Pastikan [File data_reservasi.txt](https://github.com/ajinurmjd-dev/Algoritma-Struktur-Data/blob/main/data_reservasi.txt) berada dalam folder yang sama dengan file Java
 3. Buka Terminal atau Command Prompt.
 4. Kompilasi file:
    javac [File Code](https://github.com/ajinurmjd-dev/Algoritma-Struktur-Data/blob/main/SistemReservasi_V1.java)
